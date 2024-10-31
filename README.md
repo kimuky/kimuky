@@ -1,5 +1,9 @@
-## Hi there 👋
+## 안녕하세요 열심히 공부하고 있는 중입니다!
 
+성장중...
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimuky%2Fhit-counter&count_bg=%23656A61&title_bg=%23C2BA5D&icon=java.svg&icon_color=%23000000&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **kimuky/kimuky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
